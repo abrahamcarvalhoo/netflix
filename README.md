@@ -18,16 +18,16 @@ built with **React, Next.js, Tailwind CSS and Prisma** and hosted with [Netlify]
    yarn
    ```
 
-2. Start the development server
-
-   ```sh
-   yarn dev
-   ```
-
-3. Push db scheme
+2. Push db scheme
 
    ```sh
    npx prisma db push
+   ```
+
+3. Start the development server
+
+   ```sh
+   yarn dev
    ```
 
 ## 🚀 Building and Running for Production
