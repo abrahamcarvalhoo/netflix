@@ -5,7 +5,7 @@
 
 built with **React, Next.js, Tailwind CSS and Prisma** and hosted with [Netlify](https://netlify.com)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/decd930e-92e6-4aef-a4e8-ddd22cdedf7e/deploy-status)](https://app.netlify.com/sites/netflix/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fee1998e-7f19-42c4-b0ed-a24dc300e717/deploy-status)](https://app.netlify.com/sites/net-fli-x/deploys)
 
 ![demo](https://raw.githubusercontent.com/abrahamcarvalhoo/netflix/main/public/images/demo.png)
 </div>
